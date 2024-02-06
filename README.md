@@ -6,6 +6,8 @@ I always knew my passion was here, in the world of technology, and now that i've
 
 If you are looking for someone with experience in fullstack development who is ready to continue learning and improving, don't hesitate to contact me!
 
+## 📧 Gmail:
+dario.zerobyte@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-gonzalez-66a2101aa/) 
