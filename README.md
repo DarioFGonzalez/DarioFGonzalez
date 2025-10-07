@@ -1,11 +1,10 @@
 # 🚀 Darío González | Fullstack Web Developer
 
 ### 👋 Sobre Mí:
-Soy Darío, un **Fullstack Web Developer** impulsado por la pasión por la tecnología y el aprendizaje continuo. Mi enfoque es construir soluciones robustas, escalables y orientadas a la experiencia del usuario, con un compromiso inquebrantable con la calidad del código.
-
-A lo largo de mi carrera, he adquirido experiencia práctica en todo el *stack*, desde la arquitectura de bases de datos hasta la interfaz dinámica del usuario. Busco activamente desafíos que me permitan seguir creciendo y contribuir con mis habilidades, ambición y conocimiento en un equipo de desarrollo colaborativo.
-
-Si buscas a un desarrollador proactivo, con experiencia en tecnologías modernas y listo para entregar valor desde el primer día, ¡hablemos!
+Soy un Fullstack Web Developer orientado al Back-End, con un enfoque en código claro, eficiente y fácil de mantener.
+No me interesa “hacer que funcione”: quiero entender por qué funciona.
+Reaprendí programación desde cero después de un bootcamp, corrigiendo malas prácticas y priorizando la calidad del código por encima de la velocidad.
+Trabajo con el stack PERN (PostgreSQL, Express, React, Node.js), y mi objetivo es formar parte de un equipo donde pueda aportar soluciones reales y seguir creciendo como desarrollador profesional.
 
 ---
 
