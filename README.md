@@ -33,8 +33,7 @@ Aquí están las tecnologías y herramientas con las que trabajo, organizadas po
 
 ### ⌨️ Consistencia en el Código (Typing Activity):
 <div align="center">
-    <img src="https://monkeytype-readme-stats.xyz/generate?username=ivelliuz&style=activity_graph" alt="MonkeyType Activity Graph" />
-</div>
+    </div>
 
 ## 📧 Contacto:
 
