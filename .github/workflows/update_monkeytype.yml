@@ -1,9 +1,10 @@
-# .github/workflows/update_monkeytype.yml (El código que ya tienes)
+# .github/workflows/update_monkeytype.yml
 
-name: Update MonkeyType Stats
+name: Update MonkeyType Stats (Actualizado)
+
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */6 * * *' # Se ejecuta una vez al día a medianoche
   workflow_dispatch:
 
 jobs:
@@ -11,20 +12,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Generate MonkeyType Badge
-        uses: mjkodkks/monkeytype-stats-readme@v1.0
+
+      - name: Update MonkeyType Stats
+        uses: JasonGao7/monkeytype-readme@v1.2.0 # La acción actual
         with:
-          monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
-          monkeytype_username: "TU_USUARIO_MONKEYTYPE" 
-          # 🚨 Importante: Este es el nombre del marcador en tu README
-          section_name: "monkeytype-badge" 
-          # Indicamos que queremos el badge y no un gráfico complejo:
-          style: flat # o 'for-the-badge'
-          mode: time # 'time' o 'words'
-          mode2: 60 # 60 segundos
-          badge_type: wpm # Muestra el WPM más alto
-          
+          # Tu API Key como Secreto de GitHub (MONKEYTYPE_API_KEY)
+          api_key: ${{ secrets.MONKEY_TYPE_APE_KEY }}
+          # Tu nombre de usuario público de MonkeyType
+          username: 'ivelliuz'
+          # Tipo de stats que se mostrarán (e.g., top 10 o todos)
+          stats_type: 'latest' 
+
+      # Commit y push los cambios al README.md
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
