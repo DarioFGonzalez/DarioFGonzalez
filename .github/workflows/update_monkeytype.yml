@@ -1,12 +1,9 @@
-# .github/workflows/update_monkeytype.yml
+# .github/workflows/update_monkeytype.yml (El código que ya tienes)
 
 name: Update MonkeyType Stats
-
 on:
-  # Se ejecuta cada 6 horas
   schedule:
     - cron: '0 */6 * * *'
-  # Permite ejecutarlo manualmente desde la pestaña 'Actions' de GitHub
   workflow_dispatch:
 
 jobs:
@@ -15,26 +12,26 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # Esta acción genera el badge o la imagen.
       - name: Generate MonkeyType Badge
         uses: mjkodkks/monkeytype-stats-readme@v1.0
         with:
-          # Usa el Secreto que creaste en la configuración del repositorio
           monkeytype_api_key: ${{ secrets.MONKEYTYPE_API_KEY }}
-          # Tu nombre de usuario público de MonkeyType
           monkeytype_username: "TU_USUARIO_MONKEYTYPE" 
-          # Este nombre DEBE coincidir con el marcador en tu README.md
-          section_name: "monkeytype-stats" 
-
-      # Confirma y sube los cambios al README.md
+          # 🚨 Importante: Este es el nombre del marcador en tu README
+          section_name: "monkeytype-badge" 
+          # Indicamos que queremos el badge y no un gráfico complejo:
+          style: flat # o 'for-the-badge'
+          mode: time # 'time' o 'words'
+          mode2: 60 # 60 segundos
+          badge_type: wpm # Muestra el WPM más alto
+          
       - name: Commit files
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          # La opción "|| echo..." evita que el workflow falle si no hubo cambios
           git commit -a -m "🤖 Actualización automática de estadísticas de MonkeyType" || echo "No changes to commit"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main # Confirma si tu rama principal es 'main' o 'master'
+          branch: main
