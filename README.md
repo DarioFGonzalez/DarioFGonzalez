@@ -31,9 +31,13 @@ Aquí están las tecnologías y herramientas con las que trabajo, organizadas po
 ### 🥇 Top Lenguajes:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioFGonzalez&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### ⌨️ Consistencia en el Código (Typing Activity):
-<div align="center">
-    </div>
+## 🧠 Typing Skills (Monkeytype)
+
+> Practico mecanografía todos los días para mejorar mi velocidad y precisión al tipear código.  
+> Ver mi perfil en [Monkeytype](https://monkeytype.com/profile/ivelliuz).
+> 
+
+[![Typing Consistency](https://monkeytype-readme.zeabur.app/generate-svg/ivelliuz/terminal)](https://monkeytype.com/profile/ivelliuz)
 
 ## 📧 Contacto:
 
