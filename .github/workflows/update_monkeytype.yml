@@ -1,7 +1,6 @@
 # .github/workflows/update_monkeytype.yml
 
 name: Update MonkeyType Stats (Actualizado)
-
 on:
   schedule:
     - cron: '0 */6 * * *' # Se ejecuta una vez al día a medianoche
