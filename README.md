@@ -57,11 +57,16 @@ Juego arcade con detección de colisiones y física en tiempo real.
 
 ---
 
-### 📊 GitHub stats
+## 📈 Actividad
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioFGonzalez&layout=compact&theme=dark&hide_border=true" width="400" />
-</p>
+🎯 **3+ años** de experiencia construyendo aplicaciones web  
+📦 **+10 proyectos** entre e-commerce, dashboards y motores de juego  
+🧠 **TypeScript** en el 80% del código productivo  
+🚀 **React + Node.js** como stack principal  
+🛠️ **PostgreSQL + MySQL** en bases de datos  
+💬 **Inglés C2** para comunicación profesional
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioFGonzalez)
 
 ---
 
