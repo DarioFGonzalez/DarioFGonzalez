@@ -48,7 +48,7 @@ Me gusta escribir **código limpio, mantenible y con sentido**. No me conformo c
 | 🛒 **Toy Store** | E-commerce con autenticación JWT, carrito de compras e integración con MercadoPago. | React · TypeScript · Node.js · Express · PostgreSQL · Sequelize | [🔗 Deploy](https://toy-store-phi.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/Toy-Store) |
 | 🎮 **JS-Dungeon** | Motor de juego modular con looteo, farming y crafting. | TypeScript · React | 🧙‍♂️ [¡Jugalo!](https://js-dungeon.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/JS-Dungeon) |
 | 🚀 **Space Shooter** | Juego arcade con colisiones y física en tiempo real. | JavaScript vanilla · HTML5 Canvas | 👾 [¡Jugalo!](https://space-shooter-beryl.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/Space-Shooter) |
-| 🗄️ **Raw Queries (MySQL)** | Proyecto de práctica con consultas SQL nativas y optimización de rendimiento. | MySQL · JavaScript | [📦 Repo]([https://github.com/DarioFGonzalez?tab=repositories](https://github.com/DarioFGonzalez/fullstack-express-mysql-raw)) |
+| 🗄️ **Raw Queries (MySQL)** | Proyecto de práctica con consultas SQL nativas y optimización de rendimiento. | MySQL · JavaScript | [📦 Repo](https://github.com/DarioFGonzalez/fullstack-express-mysql-raw) |
 
 ---
 
