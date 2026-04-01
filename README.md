@@ -45,10 +45,10 @@ Me gusta escribir **código limpio, mantenible y con sentido**. No me conformo c
 
 | Proyecto | Descripción | Stack | Links |
 |:---|:---|:---|:---|
-| 🛒 **E-commerce "Violeta's"** | Tienda online con autenticación JWT, carrito de compras e integración con MercadoPago. | React · TypeScript · Node.js · Express · PostgreSQL · Sequelize | [🔗 Repo](https://github.com/DarioFGonzalez/ecommerce-violetas) |
+| 🛒 **Toy Store** | E-commerce con autenticación JWT, carrito de compras e integración con MercadoPago. | React · TypeScript · Node.js · Express · PostgreSQL · Sequelize | [🔗 Deploy](https://toy-store-phi.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/Toy-Store) |
 | 🎮 **JS-Dungeon** | Motor de juego modular con looteo, farming y crafting. | TypeScript · React | 🧙‍♂️ [¡Jugalo!](https://js-dungeon.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/JS-Dungeon) |
 | 🚀 **Space Shooter** | Juego arcade con colisiones y física en tiempo real. | JavaScript vanilla · HTML5 Canvas | 👾 [¡Jugalo!](https://space-shooter-beryl.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/Space-Shooter) |
-| 📊 **Dashboard Admin** | Panel de control con visualización de datos en tiempo real. | React · TypeScript · Node.js · PostgreSQL | [🔗 Repo](https://github.com/DarioFGonzalez/dashboard) |
+| 🗄️ **Raw Queries (MySQL)** | Proyecto de práctica con consultas SQL nativas y optimización de rendimiento. | MySQL · JavaScript | [📦 Repo](https://github.com/DarioFGonzalez?tab=repositories) |
 
 ---
 
