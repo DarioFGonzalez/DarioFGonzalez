@@ -51,30 +51,32 @@ Me gusta escribir **código limpio, mantenible y con sentido**. No me conformo c
 ## ⭐ Proyectos destacados
 
 ### 🛒 Toy Store
-**E-commerce completo** con autenticación JWT, carrito de compras e integración con MercadoPago.  
-`React` `TypeScript` `Node.js` `Express` `JWT` `PostgreSQL` `Sequelize` `mercadopago`  
-[📦 Repo](https://github.com/DarioFGonzalez/Toy-Store)
+**E-commerce fullstack** con carrito de compras, pasarela de pagos MercadoPago, integración PUDO para envíos, panel administrativo y webhook de pagos. Permite navegar productos, cotizar envíos a lockers, gestionar stock y procesar pedidos en tiempo real.
+
+`React` `TypeScript` `Node.js` `Express` `JWT` `PostgreSQL` `Sequelize` `MercadoPago` `PUDO` `Cloudinary` `Nodemailer`
+
+[📦 Repo](https://github.com/DarioFGonzalez/Toy-Store) [📋 Readme](https://github.com/DarioFGonzalez/Toy-Store/blob/main/README.md)
 
 ### 🎮 JS-Dungeon
 **Motor de juego modular** con combate, looteo, crafting, IA de patrullas configurable, bestiario progresivo, inspector de criaturas con tooltips y drops por rareza. Doble mapa con teletransportes. Construido desde cero sin engines ni librerías externas. Laboratorio personal donde la lógica compleja se encuentra con el código limpio.
 
 `TypeScript` `React` `CSS Modules` `Vercel`
 
-[🧙‍♂️ Demo](https://js-dungeon.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/JS-Dungeon) · [📄 Devlog](./devlog.md)
+[🧙‍♂️ Demo](https://js-dungeon.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/JS-Dungeon) · [📄 Devlog](https://github.com/DarioFGonzalez/JS-Dungeon/blob/main/devlog.md)
 
 ### 🚀 Space Shooter
 **Shooter táctil en cuadrícula 9x9** con rotación de nave, proyectiles persistentes y dificultad progresiva. Movimiento WASD, disparo direccional, asteroides con frecuencia creciente, colisiones con invulnerabilidad temporal y sistema de puntuación. Construido sin Canvas - lógica grid-based pura con sprites estáticos.
 
 `React` `TypeScript` `CSS Modules` `Vercel`
 
-[👾 Demo](https://space-shooter-beryl.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/Space-Shooter)
+[👾 Demo](https://space-shooter-beryl.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/Space-Shooter) [📋 Readme](https://github.com/DarioFGonzalez/Space-Shooter/blob/main/README.md)
 
 ### 🗄️ Raw Queries (MySQL)
 **Backend B2B mayorista** con manejo de stock reservado, ciclo completo de facturas (draft → confirm → deliver → paid/cancel), autenticación JWT con roles (admin/cliente) y transacciones ACID. Sin ORM - queries SQL puras.  
 
 `Express` `MySQL` `raw queries` `JWT` `stock management` `transactions`  
 
-[📦 Repo](https://github.com/DarioFGonzalez/fullstack-express-mysql-raw)
+[📦 Repo](https://github.com/DarioFGonzalez/fullstack-express-mysql-raw) · [📄 Devlog](https://github.com/DarioFGonzalez/fullstack-express-mysql-raw/blob/main/devlog.md) · [📋 CHANGELOG](https://github.com/DarioFGonzalez/fullstack-express-mysql-raw/blob/main/CHANGELOG.md)
 
 ---
 
