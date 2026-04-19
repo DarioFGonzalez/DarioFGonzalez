@@ -120,7 +120,7 @@ I've evolved dramatically through self-learning, tackling real-world projects an
 
 ## 🎯 What I'm Looking For
 
-I'm seeking **Full Stack Developer** roles (Junior to Mid-level) where I can contribute to meaningful projects, learn from experienced teams, and grow professionally. Open to remote opportunities and excited to bring fresh perspectives from my self-taught journey.
+I'm seeking **Back-End Developer** roles (Junior to Mid-level) where I can focus on building scalable APIs, databases, and server-side logic. While my primary focus is back-end, I'm comfortable with full-stack development when needed and open to front-end challenges as part of the role. Open to remote opportunities and excited to bring fresh perspectives from my self-taught journey.
 
 ---
 
