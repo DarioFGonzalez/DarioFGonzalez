@@ -64,12 +64,12 @@ Me gusta escribir **código limpio, mantenible y con sentido**. No me conformo c
 
 [🧙‍♂️ Demo](https://js-dungeon.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/JS-Dungeon) · [📄 Devlog](https://github.com/DarioFGonzalez/JS-Dungeon/blob/main/devlog.md)
 
-### 🚀 Space Shooter
-**Shooter táctil en cuadrícula 9x9** con rotación de nave, proyectiles persistentes y dificultad progresiva. Movimiento WASD, disparo direccional, asteroides con frecuencia creciente, colisiones con invulnerabilidad temporal y sistema de puntuación. Construido sin Canvas - lógica grid-based pura con sprites estáticos.
+### 🎬 Cinema Booking API
+**API REST de gestión de cines** con CRUD completo de cines, películas y salas, validación de integridad referencial y documentación profesional con Swagger UI. Incluye ejemplos de éxito, error y casos mixtos, query builders reutilizables con currying, y estadísticas agregadas con `SUM(condition)` para evitar N+1 queries.
 
-`React` `TypeScript` `CSS Modules` `Vercel`
+`Express` `MySQL` `raw queries` `Swagger` `OpenAPI 3.0` `REST API` `currying` `documentation`
 
-[👾 Demo](https://space-shooter-beryl.vercel.app/) · [📦 Repo](https://github.com/DarioFGonzalez/Space-Shooter) [📋 Readme](https://github.com/DarioFGonzalez/Space-Shooter/blob/main/README.md)
+[📦 Repo](https://github.com/DarioFGonzalez/cinema-booking-system) · [📋 Readme](https://github.com/DarioFGonzalez/cinema-booking-system#readme) · [📄 CHANGELOG](https://github.com/DarioFGonzalez/cinema-booking-system/blob/main/CHANGELOG.md)
 
 ### 🗄️ Raw Queries (MySQL)
 **Backend B2B mayorista** con manejo de stock reservado, ciclo completo de facturas (draft → confirm → deliver → paid/cancel), autenticación JWT con roles (admin/cliente) y transacciones ACID. Sin ORM - queries SQL puras.  
