@@ -71,12 +71,12 @@ Me gusta escribir **código limpio, mantenible y con sentido**. No me conformo c
 
 [📦 Repo](https://github.com/DarioFGonzalez/cinema-booking-system) · [📋 Readme](https://github.com/DarioFGonzalez/cinema-booking-system#readme) · [📄 CHANGELOG](https://github.com/DarioFGonzalez/cinema-booking-system/blob/main/CHANGELOG.md)
 
-### 🗄️ Raw Queries (MySQL)
-**Backend B2B mayorista** con manejo de stock reservado, ciclo completo de facturas (draft → confirm → deliver → paid/cancel), autenticación JWT con roles (admin/cliente) y transacciones ACID. Sin ORM - queries SQL puras.  
+### 📦 B2B Stock Reserve API
+**Backend mayorista** con sistema de stock reservado, ciclo completo de facturas (draft → confirm → deliver → paid/cancel), autenticación JWT con roles (admin/cliente) y transacciones ACID. Sin ORM - queries SQL puras.
 
-`Express` `MySQL` `raw queries` `JWT` `stock management` `transactions`  
+`Express` `MySQL` `raw queries` `JWT` `stock management` `invoices` `transactions` `ACID`
 
-[📦 Repo](https://github.com/DarioFGonzalez/fullstack-express-mysql-raw) · [📄 Devlog](https://github.com/DarioFGonzalez/fullstack-express-mysql-raw/blob/main/devlog.md) · [📋 CHANGELOG](https://github.com/DarioFGonzalez/fullstack-express-mysql-raw/blob/main/CHANGELOG.md)
+[📦 Repo](https://github.com/DarioFGonzalez/b2b-stock-reserve-api) · [📄 Devlog](https://github.com/DarioFGonzalez/b2b-stock-reserve-api/blob/main/devlog.md) · [📋 CHANGELOG](https://github.com/DarioFGonzalez/b2b-stock-reserve-api/blob/main/CHANGELOG.md)
 
 ---
 
@@ -101,8 +101,6 @@ Me gusta escribir **código limpio, mantenible y con sentido**. No me conformo c
   <a href="https://github.com/DarioFGonzalez"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://cert.efset.org/7LAydB"><img src="https://img.shields.io/badge/English-C2-2E8B57?style=for-the-badge&logo=google&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
