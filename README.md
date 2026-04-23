@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Location-Buenos%20Aires-0e75b6?style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioFGonzalez&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
 
 ## About Me
